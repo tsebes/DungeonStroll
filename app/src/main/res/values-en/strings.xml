@@ -63,4 +63,7 @@
     <string name="planty_bienczyckie_start">Hello adventures, nearby green areas got infested with some skeletons. Could you help me and remove them?</string>
     <string name="planty_bienczyckie_lost">It seems plague got better of you, let me patch you up and good luck next time.</string>
     <string name="planty_bienczyckie_end">Congratulations, you did it! As a reward I invite you to see a sculpture of a world renown artist: Wincenty Kućma, titled \"Dojrzewanie II\" by town people more commonly known as peas</string>
+    <string name="politechnika_lost">Oh no, you lost. Try again once you are stronger.</string>
+    <string name="politechnika_start">Hello adventures, some monsters appeared nearby - please help me and defeat them!</string>
+    <string name="politechnika_end">Congratulations, you did it! If you wish to rest after job well done you can do so in Gallery Gil nearby</string>
 </resources>

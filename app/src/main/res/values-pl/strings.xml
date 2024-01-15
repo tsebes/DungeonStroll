@@ -63,4 +63,7 @@
     <string name="planty_bienczyckie_start">Witajcie poszukiwacze przygód, pobliskie tereny zielone zostaly zainfekowane plagą szkieletów. Czy pomoglibyście mi się ich pozbyć?</string>
     <string name="planty_bienczyckie_lost">Wygląda na to że zaraza was pokonała, pozwólcie mi was uleczyć i powodzenia następnym razem.</string>
     <string name="planty_bienczyckie_end">Brawo, udało wam się! W nagrodę zapraszam was do obejrzenia rzeźby cenionego na całym świecie artysty Wincentego Kućmy pod tytułem \"Dojrzewanie II\" przez mieszkańców nazywanej groszkiem</string>
+    <string name="politechnika_lost">O nie, przegraliście. Spróbujcie ponownie jak będziecie mocniejsi.</string>
+    <string name="politechnika_start">Witajcie poszukiwacze przygód, jakieś potwory pojawiły się w okolicy - proszę pomóżcie mi je pokonać!</string>
+    <string name="politechnika_end">Brawo, udało wam się! Jeśli chcecie odpocząć po wyczerpującej pracy możecie to zrobić w Galerii Gil będącej w pobliżu</string>
 </resources>
